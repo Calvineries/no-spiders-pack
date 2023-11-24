@@ -1,0 +1,12 @@
+{
+    "entity.minecraft.cave_spider": "Slime bleu",
+    "entity.minecraft.spider": "Slime jaune",
+    "item.minecraft.cave_spider_spawn_egg": "Oeuf d'apparition de slime bleu",
+    "item.minecraft.fermented_spider_eye": "Oeil de slime fermenté",
+    "item.minecraft.spider_eye": "Oeil de slime",
+    "item.minecraft.spider_spawn_egg": "Oeuf d'apparition de slime jaune",
+
+    "subtitles.entity.spider.ambient": "Sifflement de slime coloré",
+    "subtitles.entity.spider.death": "Slime coloré qui meurt",
+    "subtitles.entity.spider.hurt": "Slime coloré blessé"
+}

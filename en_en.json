@@ -1,0 +1,12 @@
+{
+    "entity.minecraft.cave_spider": "Blue Slime",
+    "entity.minecraft.spider": "Yellow Slime",
+    "item.minecraft.cave_spider_spawn_egg": "Blue Slime Spawn Egg",
+    "item.minecraft.fermented_spider_eye": "Fermented Slime Eye",
+    "item.minecraft.spider_eye": "Slime Eye",
+    "item.minecraft.spider_spawn_egg": "Yellow Slime Spawn Egg",
+
+    "subtitles.entity.spider.ambient": "Colored Slime hisses",
+    "subtitles.entity.spider.death": "Colored Slime dies",
+    "subtitles.entity.spider.hurt": "Colored Slime hurts"
+}
