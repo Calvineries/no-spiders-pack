@@ -1,0 +1,12 @@
+{
+    "entity.minecraft.cave_spider": "Blauer Schleim",
+    "entity.minecraft.spider": "Gelber Schleim",
+    "item.minecraft.cave_spider_spawn_egg": "Blauer-Schleim-Spawn-Ei",
+    "item.minecraft.fermented_spider_eye": "Fermentiertes Schleimauge",
+    "item.minecraft.spider_eye": "Schleimauge",
+    "item.minecraft.spider_spawn_egg": "Gelber-Schleim-Spawn-Ei",
+
+    "subtitles.entity.spider.ambient": "Farbiger Schleim zischt",
+    "subtitles.entity.spider.death": "Farbiger Schleim stirbt",
+    "subtitles.entity.spider.hurt": "Farbiger Schleim nimmt Schaden"
+}
